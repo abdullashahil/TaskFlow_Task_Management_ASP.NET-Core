@@ -157,3 +157,4 @@
 /Users/macbookpro/Desktop/Mywebsites/TaskFlow/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/macbookpro/Desktop/Mywebsites/TaskFlow/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/macbookpro/Desktop/Mywebsites/TaskFlow/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/macbookpro/Desktop/Mywebsites/TaskFlow/obj/Debug/net8.0/TaskFlow.sourcelink.json
